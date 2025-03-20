@@ -1,6 +1,6 @@
 # Hey there! I'm Samhitha  
 
-🚀 **Data Enthusiast | 🔍 Problem Solver | 📊 Machine Learning **  
+🚀 **Data Enthusiast | 🔍 Problem Solver | 📊 Machine Learning**  
 
 📍 San José, California 
 
