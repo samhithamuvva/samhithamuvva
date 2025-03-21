@@ -18,7 +18,7 @@ If **data had a best friend**, it would be me. I love transforming **chaotic dat
 **B.Tech in Computer Science & Engineering** | Vellore Institute of Technology _(May 2023)_  
 
 **Coursework**:  
-Machine Learning | Deep Learning | Big Data | Generative AI | Database Analytics | Statistics | Parallel Computing  
+Machine Learning | Deep Learning | Big Data | Generative AI | Database Analytics | Statistics | Parallel Computing
 ---
 ### 🔥 Featured Projects  
 
