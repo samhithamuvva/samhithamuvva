@@ -1,6 +1,6 @@
 # Hey there! I'm Samhitha  
 
-🚀 **Data Enthusiast | 🔍 Problem Solver | 📊 Machine Learning**  
+🚀 **Data Enthusiast | 📊 Machine Learning**  
 
 📍 San José, California 
 
@@ -11,6 +11,14 @@ If **data had a best friend**, it would be me. I love transforming **chaotic dat
 
 💡 My passion? **Scalable AI, NLP, and predictive analytics!** When I’m not coding, I’m probably writing about AI or nerding out over **Big Data architectures**.  
 
+---
+### 🎓 Education  
+
+**Master’s in Data Analytics** | San José State University _(Dec 2025)_  
+**B.Tech in Computer Science & Engineering** | Vellore Institute of Technology _(May 2023)_  
+
+**Coursework**:  
+Machine Learning | Deep Learning | Big Data | Generative AI | Database Analytics | Statistics | Parallel Computing  
 ---
 ### 🔥 Featured Projects  
 
@@ -45,16 +53,6 @@ Conducted **vulnerability testing**, security analysis, and caught sneaky Java b
 
 ---
 
-### 🎓 Education  
-
-**Master’s in Data Analytics** | San José State University _(Dec 2025)_  
-**B.Tech in Computer Science & Engineering** | Vellore Institute of Technology _(May 2023)_  
-
-**Coursework**:  
-Machine Learning | Deep Learning | Big Data | Generative AI | Database Analytics | Statistics | Parallel Computing  
-
----
-
 ### Skills & Tools  
 
 ### **Languages & Coding**  
@@ -82,7 +80,7 @@ PyTorch, TensorFlow, Scikit-Learn, SpaCy, NLTK
 ### 📚 Publications & Features  
 
 📖 **Smart Medical Assist Device (SMADE)** – _Springer_ ➝ [Read Here](https://link.springer.com/chapter/10.1007/978-3-031-11633-9_19)  
-📖 **Decoding PIU: A Deep Dive into ML Mental Health Study** – _Medium_ ➝ [Read Here](https://medium.com/@samhitha.muvva/decoding-piu-a-deep-dive-into-ioannidis-et-al-s-2016-machine-learning-study-f2103ba5cf21)  
+📖 **Tech Blog** – _Medium_ ➝ [Read Here](https://medium.com/@samhitha.muvva)  
 🎙️ **Bits without Biases Podcast (Feat. Me!)** – _Spotify_ ➝ [Listen Here](https://open.spotify.com/episode/6s9ngTeoKvmIdBcyOZimeO)  
 
 ---
